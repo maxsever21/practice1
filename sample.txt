@@ -1,5 +1,8 @@
 Hello Max
+<<<<<<< HEAD
 
 Why did the first test not work?
 
 Oh snap it did work!!!!
+=======
+>>>>>>> parent of 8ba6e73 (new change)
